@@ -34,7 +34,10 @@
         if(SWITCH == "ON"){
             if(document.getElementById("parts").getElementsByClassName("part_active")[0]){
                 actived = document.getElementById("parts").getElementsByClassName("part_active")[0];
+            } else {
+                actived = "";
             }
+            
             for(var i = 0; i < protium_tile.length; i++){
                 if(document.getElementsByClassName("part part_protium3")[0].className === "part part_protium3"){
                     document.getElementsByClassName("part part_protium3")[0].click();
