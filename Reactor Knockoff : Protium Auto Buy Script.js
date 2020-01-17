@@ -2,7 +2,7 @@
 // @name         Reactor Knockoff : Protium Auto Buy Script
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  protium
 // @author       nyannyaru
 // @match        *://cwmonkey.github.io/reactor-knockoff/
 // @grant        none
