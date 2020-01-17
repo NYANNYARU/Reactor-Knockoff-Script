@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Reactor Knockoff : Protium Auto Buy Script
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  protium
-// @author       nyannyaru
-// @match        *://cwmonkey.github.io/reactor-knockoff/
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
     var SWITCH = "OFF"
